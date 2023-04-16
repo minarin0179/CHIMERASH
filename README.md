@@ -21,7 +21,7 @@
 
 実際にプレイする様子は[こちら](https://youtu.be/4N_rrQbWVqM)
 
-開発言語 : Java(Processing)
+開発言語 : Java(Processing)  
 製作期間 : 4日  
 楽曲提供 : Mass様(https://twitter.com/Mass_DTM)  
 譜面製作 : カカオ様  
